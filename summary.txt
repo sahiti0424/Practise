@@ -1,0 +1,4 @@
+Total passengers: 891
+Survived: 342
+Died: 549
+Survival rate: 38.4%
